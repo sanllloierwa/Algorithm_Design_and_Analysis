@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except huffman and Closest Pair directories
+!huffman/
+!Closest Pair/
+
+# And this .gitignore file itself
+!.gitignore
